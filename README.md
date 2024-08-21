@@ -4,6 +4,13 @@
 
 This dataset comprises information related to the food cold chain, meticulously constructed to aid in the development and testing of visualization techniques using the Vega-Lite grammar. The dataset consists of 131,909 tuples, each representing a unique pairing between JSON data and its corresponding Vega-Lite syntax. To ensure the dataset is suitable for various machine learning tasks, it has been split into training, validation, and test sets following a 60/20/20 distribution.
 
+### Data Files
+
+- The `.source` files contain the JSON data.
+- The `.target` files contain the corresponding Vega-Lite syntax.
+
+Each `.source` file is paired with a `.target` file in a one-to-one relationship, ensuring that the JSON data and its corresponding visualization specification are directly linked.
+
 ## Dataset Details
 
 - **Total Tuples**: 131,909
