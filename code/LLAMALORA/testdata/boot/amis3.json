@@ -1,0 +1,242 @@
+[
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "",
+      "Juice loss rate/%": "",
+      "*L": "34.43425495",
+      "*a": "18.27086312",
+      "*b": "1.85423704"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "2",
+      "Juice loss rate/%": "1.089733727",
+      "*L": "37.77345001",
+      "*a": "17.07373214",
+      "*b": "2.581825711"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "5",
+      "Juice loss rate/%": "1.145406108",
+      "*L": "39.02447909",
+      "*a": "16.17801533",
+      "*b": "2.980990971"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "6",
+      "Juice loss rate/%": "1.15952139",
+      "*L": "39.49242705",
+      "*a": "15.86949883",
+      "*b": "3.256577238"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "10",
+      "Juice loss rate/%": "1.203811178",
+      "*L": "42.88851701",
+      "*a": "14.97144072",
+      "*b": "4.911921853"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "12",
+      "Juice loss rate/%": "1.228467828",
+      "*L": "44.29328065",
+      "*a": "14.51134006",
+      "*b": "5.793831031"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "15",
+      "Juice loss rate/%": "1.251288347",
+      "*L": "45.22753489",
+      "*a": "14.45718469",
+      "*b": "6.314773613"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "20",
+      "Juice loss rate/%": "1.27168839",
+      "*L": "46.62618212",
+      "*a": "14.27265142",
+      "*b": "7.264819085"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "24",
+      "Juice loss rate/%": "1.300913469",
+      "*L": "47.73817882",
+      "*a": "14.09895638",
+      "*b": "8.065268936"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "25",
+      "Juice loss rate/%": "1.341021361",
+      "*L": "47.53629054",
+      "*a": "14.15395878",
+      "*b": "7.913773223"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "72",
+      "Juice loss rate/%": "1.764241561",
+      "*L": "45.57972507",
+      "*a": "14.64443794",
+      "*b": "6.481091064"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "90",
+      "Juice loss rate/%": "1.865789134",
+      "*L": "43.49837057",
+      "*a": "15.03305785",
+      "*b": "5.650563536"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "120",
+      "Juice loss rate/%": "2.04099458",
+      "*L": "40.72189374",
+      "*a": "15.79404504",
+      "*b": "4.19891914"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "150",
+      "Juice loss rate/%": "2.129027401",
+      "*L": "39.40712276",
+      "*a": "16.17355372",
+      "*b": "3.733812155"
+  },
+  {
+      "Storage temperature/degree Celsius": "4",
+      "Storage time /h": "168",
+      "Juice loss rate/%": "2.171960756",
+      "*L": "38.84670665",
+      "*a": "16.30807065",
+      "*b": "3.446454935"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "0.5",
+      "Juice loss rate/%": "0.75216069",
+      "*L": "32.62711542",
+      "*a": "17.51316361",
+      "*b": "1.602840392"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "2",
+      "Juice loss rate/%": "0.802493654",
+      "*L": "36.41070964",
+      "*a": "16.4093635",
+      "*b": "1.852629271"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "5",
+      "Juice loss rate/%": "0.900838517",
+      "*L": "37.78989235",
+      "*a": "15.6999386",
+      "*b": "2.251940691"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "6",
+      "Juice loss rate/%": "0.929359576",
+      "*L": "38.55901407",
+      "*a": "15.52600119",
+      "*b": "2.552593543"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "10",
+      "Juice loss rate/%": "0.986378944",
+      "*L": "40.71986426",
+      "*a": "14.50989499",
+      "*b": "3.629652787"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "12",
+      "Juice loss rate/%": "1.004697303",
+      "*L": "41.81733796",
+      "*a": "14.02358695",
+      "*b": "4.205672665"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "15",
+      "Juice loss rate/%": "1.023083493",
+      "*L": "43.00914561",
+      "*a": "14.01207551",
+      "*b": "4.73097473"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "20",
+      "Juice loss rate/%": "1.048898961",
+      "*L": "45.0008484",
+      "*a": "13.90991388",
+      "*b": "5.806791607"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "24",
+      "Juice loss rate/%": "1.078233547",
+      "*L": "46.61462977",
+      "*a": "13.82689792",
+      "*b": "6.657447707"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "25",
+      "Juice loss rate/%": "1.10728462",
+      "*L": "46.15039268",
+      "*a": "13.89017114",
+      "*b": "6.505951994"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "72",
+      "Juice loss rate/%": "1.275689594",
+      "*L": "43.47639722",
+      "*a": "14.38759437",
+      "*b": "5.709237569"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "90",
+      "Juice loss rate/%": "1.37258571",
+      "*L": "41.78693275",
+      "*a": "14.80165289",
+      "*b": "4.730674033"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "120",
+      "Juice loss rate/%": "1.508388333",
+      "*L": "39.20439467",
+      "*a": "15.4256447",
+      "*b": "3.001878453"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "150",
+      "Juice loss rate/%": "1.662924248",
+      "*L": "38.57786742",
+      "*a": "15.80991736",
+      "*b": "2.838983425"
+  },
+  {
+      "Storage temperature/degree Celsius": "-1",
+      "Storage time /h": "168",
+      "Juice loss rate/%": "1.739098412",
+      "*L": "38.06464625",
+      "*a": "15.93936225",
+      "*b": "2.781104972"
+  }
+]
