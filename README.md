@@ -1,8 +1,27 @@
-# Food-Cold-Chain-Corpus
 
-## Overview
+# VIS-Llama: Automated Visualization of Food Cold Chain Data using Large Language Models
 
-This dataset comprises information related to the food cold chain, meticulously constructed to aid in the development and testing of visualization techniques using the Vega-Lite grammar. The dataset consists of 131,909 tuples, each representing a unique pairing between JSON data and its corresponding Vega-Lite syntax. To ensure the dataset is suitable for various machine learning tasks, it has been split into training, validation, and test sets following a 60/20/20 distribution.
+This repository contains the VIS-Llama model, an automatic visualization generation model based on large language models (LLM). VIS-Llama utilizes the Llama2 model optimized by Low-Rank Adaptation (LoRA) technology and is trained on a dataset of 131,910 pairs from a food cold chain corpus to generate high-quality Vega-Lite visualizations.
+
+## Repository Structure
+
+- **data**: This folder contains the dataset used to train the VIS-Llama model. The dataset consists of 131,910 pairs, each comprising a JSON file and the corresponding Vega-Lite syntax file, representing data and its visualization in cold chain processes.
+
+- **code**: This folder contains code resources for implementing the VIS-Llama model. The code includes scripts and resources related to model training, inference, and visualization generation.
+
+## Introduction to VIS-Llama
+
+VIS-Llama is a large language model based on Llama2, optimized using LoRA technology, and focused on automatically generating high-quality Vega-Lite visualizations. The model is trained on a large-scale dataset from the food cold chain corpus, allowing it to automatically generate corresponding Vega-Lite syntax based on input JSON data.
+
+### Key Features
+
+- **LoRA Optimization**: Utilizes Low-Rank Adaptation (LoRA) technology to optimize the Llama2 model for Vega-Lite syntax generation tasks.
+- **Large-Scale Training Data**: Trained on a dataset of 131,910 pairs from the food cold chain corpus, ensuring high accuracy and generation capabilities.
+- **High-Quality Output**: Capable of generating standard-compliant Vega-Lite syntax, ready for data visualization.
+
+## Quick Start
+
+This section will be updated later with detailed instructions on installing dependencies, running scripts, and using the model.
 
 ### Data Files
 
@@ -16,9 +35,9 @@ Each `.source` file is paired with a `.target` file in a one-to-one relationship
 - **Total Tuples**: 131,909
 - **Data Format**: JSON paired with Vega-Lite syntax
 - **Dataset Split**:
-  - Training Set: 60%
-  - Validation Set: 20%
-  - Test Set: 20%
+  - Training Set: 80%
+  - Validation Set: 10%
+  - Test Set: 10%
 
 ## Privacy Considerations
 
@@ -30,8 +49,7 @@ To use the dataset, simply download the files from the repository and load them 
 
 Please ensure that you acknowledge the privacy measures taken when using this dataset in any public or academic work.
 
-## License
 
-This dataset is released under the [Appropriate License], permitting its use for academic and non-commercial purposes. Please refer to the LICENSE file for more details.
+
 
 
