@@ -21,7 +21,25 @@ VIS-Llama is a large language model based on Llama2, optimized using LoRA techno
 
 ## Quick Start
 
-This section will be updated later with detailed instructions on installing dependencies, running scripts, and using the model.
+### 1. Set Up Environment
+Before you begin, ensure that your system meets the minimum requirements for training Llama 2. You will need:
+
+CUDA-enabled GPU (for efficient model training)
+Python 3.8+ installed
+Pytorch with CUDA support installed
+
+### 2. Clone the Repository
+Clone the repository containing the training scripts and Llama 2 model
+
+### 3. Download Llama 2 Weights
+You will need to download the pre-trained Llama 2 model weights from Hugging Face or Meta AI. You can do this using the Hugging Face Model Hub (make sure you have a Hugging Face account and have agreed to the model’s terms).
+
+### 4. Training Script
+Edit and run the following Python script train.sh  to fine-tune the Llama 2 model on your dataset
+
+### 5. Run Training
+Run the script on your server:
+python train.sh
 
 ### Data Files
 
