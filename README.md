@@ -1,41 +1,41 @@
 
 # VIS-Llama: Automated Visualization of Food Cold Chain Data using Large Language Models
 
-This repository contains the VIS-Llama model, an automatic visualization generation model based on large language models (LLM). VIS-Llama utilizes the Llama2 model optimized by Low-Rank Adaptation (LoRA) technology and is trained on a dataset of 131,910 pairs from a food cold chain corpus to generate high-quality Vega-Lite visualizations.
+This repository contains the VIS-Llama model, an automatic visualization generation model based on large language models (LLM). VIS-Llama utilizes the Llama3.1 model optimized by Low-Rank Adaptation (LoRA) technology and is trained on a dataset of 131,909 pairs from a food cold chain corpus to generate high-quality Vega-Lite visualizations.
 
 ## Repository Structure
 
-- **data**: This folder contains the dataset used to train the VIS-Llama model. The dataset consists of 131,910 pairs, each comprising a JSON file and the corresponding Vega-Lite syntax file, representing data and its visualization in cold chain processes.
+- **data**: This folder contains the dataset used to train the VIS-Llama model. The dataset consists of 131,909 pairs, each comprising a JSON file and the corresponding Vega-Lite syntax file, representing data and its visualization in cold chain processes.
 
 - **code**: This folder contains code resources for implementing the VIS-Llama model. The code includes scripts and resources related to model training, inference, and visualization generation.
 
 ## Introduction to VIS-Llama
 
-VIS-Llama is a large language model based on Llama2, optimized using LoRA technology, and focused on automatically generating high-quality Vega-Lite visualizations. The model is trained on a large-scale dataset from the food cold chain corpus, allowing it to automatically generate corresponding Vega-Lite syntax based on input JSON data.
+VIS-Llama is a large language model based on Llama3.1, optimized using LoRA technology, and focused on automatically generating high-quality Vega-Lite visualizations. The model is trained on a large-scale dataset from the food cold chain corpus, allowing it to automatically generate corresponding Vega-Lite syntax based on input JSON data.
 
 ### Key Features
 
-- **LoRA Optimization**: Utilizes Low-Rank Adaptation (LoRA) technology to optimize the Llama2 model for Vega-Lite syntax generation tasks.
-- **Large-Scale Training Data**: Trained on a dataset of 131,910 pairs from the food cold chain corpus, ensuring high accuracy and generation capabilities.
+- **LoRA Optimization**: Utilizes Low-Rank Adaptation (LoRA) technology to optimize the Llama3.1 model for Vega-Lite syntax generation tasks.
+- **Large-Scale Training Data**: Trained on a dataset of 131,909 pairs from the food cold chain corpus, ensuring high accuracy and generation capabilities.
 - **High-Quality Output**: Capable of generating standard-compliant Vega-Lite syntax, ready for data visualization.
 
 ## Quick Start
 
 ### 1. Set Up Environment
-Before you begin, ensure that your system meets the minimum requirements for training Llama 2. You will need:
+Before you begin, ensure that your system meets the minimum requirements for training Llama3.1. You will need:
 
 CUDA-enabled GPU (for efficient model training)
 Python 3.8+ installed
 Pytorch with CUDA support installed
 
 ### 2. Clone the Repository
-Clone the repository containing the training scripts and Llama 2 model
+Clone the repository containing the training scripts and Llama3.1 model
 
-### 3. Download Llama 2 Weights
-You will need to download the pre-trained Llama 2 model weights from Hugging Face or Meta AI. You can do this using the Hugging Face Model Hub (make sure you have a Hugging Face account and have agreed to the model’s terms).
+### 3. Download Llama3.1 Weights
+You will need to download the pre-trained Llama3.1 model weights from Hugging Face or Meta AI. You can do this using the Hugging Face Model Hub (make sure you have a Hugging Face account and have agreed to the model’s terms).
 
 ### 4. Training Script
-Edit and run the following Python script train.sh  to fine-tune the Llama 2 model on your dataset
+Edit and run the following Python script train.sh  to fine-tune the Llama3.1 model on your dataset
 
 ### 5. Run Training
 Run the script on your server:
